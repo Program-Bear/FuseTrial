@@ -1,3 +1,5 @@
+Tsinghua University Storage Tech Project (FUSE)
+
 编译FUSE部分：
 1. make 可以编译链接src/ArtisfFS.c中的ArtistFS.c以及util.c，它能够生成一个ArtistFS的可执行文件
 2. 执行 ./ArtistFS ./mount 可以将这个FUSE文件系统挂载到 ./mount 上
